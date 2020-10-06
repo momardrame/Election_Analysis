@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Election has given you the tasks of completing the election audit of a recent local congressional election:
