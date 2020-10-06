@@ -1,12 +1,12 @@
 # Election-Analysis
 
 ## Project Overview
-A Colorado Board of Education employee has given you the following tasks to complete: to complete the election audit of a recent local congressional election.
+A Colorado Board of Election has given you the tasks of completing the election audit of a recent local congressional election:
 
-1. calculate the total number of votes cast.
+1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calclate the total number of votes each candidate received.
-4. Calculate the total number of vvotes each candidate won.
+4. Calculate the total number of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
