@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Project Overview
-A Colorado Board of Education employee has given you the ollowing tasks to complete to complete the election audit of a recent local  congressional election.
+A Colorado Board of Education employee has given you the following tasks to complete: to complete the election audit of a recent local congressional election.
 
 1. calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -26,8 +26,3 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote and "11,606" number of votes.
 -The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and "272,892 number of votes.
-  
-## Challenge Overview
-## Challenge Sumary
-  
-  
