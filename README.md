@@ -5,8 +5,8 @@
 ## Project Overview
 The purpose of the project is to complete an election audit of a recent local congressional election in Colorado.
 - To calculate the total number of votes cast.
-- To a complete list of candidates who received votes.
-- To calclate the total number of votes each candidate received.
+- To provide a complete list of candidates who received votes.
+- To calculate the total number of votes each candidate received.
 - To calculate the total number of votes each candidate won.
 - To determine the winner of the election based on popular vote.
 
