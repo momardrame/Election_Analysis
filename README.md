@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Project Overview
-A Colorado Board of Election has given you the tasks of completing the election audit of a recent local congressional election:
+The purpose of the project is to complete an election audit of a recent local congressional election in Colorado.
 - To calculate the total number of votes cast.
 - To a complete list of candidates who received votes.
 - To calclate the total number of votes each candidate received.
