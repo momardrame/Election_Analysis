@@ -1,3 +1,5 @@
+<img src="Resources/elections.jpg" alt="drawing" width="300"/>
+
 # Election Analysis
 
 ## Project Overview
